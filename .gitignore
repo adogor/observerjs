@@ -1,0 +1,5 @@
+desktop.ini
+*.orig
+
+npm-debug.log
+node_modules
